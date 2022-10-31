@@ -38,29 +38,6 @@ https://user-images.githubusercontent.com/43610780/164369970-55c1ac87-c613-4cf9-
 
 https://user-images.githubusercontent.com/47007121/164364535-cbf3cdd9-8f92-4ecf-9f1a-1053be815938.mp4
 
-
-
-## 📑 API Documentation
-
-https://github.com/RajdevKapoor/Stay.in/blob/main/API.md
-
-## 📋 Link to Project board
-
-https://github.com/RajdevKapoor/Stay.in/projects
-
-
-## 🏃 Link to Sprint4 deliverables
-
-https://github.com/RajdevKapoor/Stay.in/blob/main/sprint4.md
-
-## 🚀 Team members
-
-- Dharani Kanchanapalli [@dkanchanapalli](https://www.github.com/dkanchanapalli) - (Backend)
-- Kshitij Sinha [@sinarest1608](https://www.github.com/sinarest1608) - (Frontend / Automation)
-- Rajdev Kapoor [@RajdevKapoor](https://www.github.com/RajdevKapoor) - (Frontend / Backend)
-- Shivam Gupta [@shivamgupta-7](https://www.github.com/shivamgupta-7) - (Frontend / Backend)
-
-
 ## Tech Stack
 - Front-End: React
 - Back - End: GoLang
